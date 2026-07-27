@@ -112,6 +112,7 @@ MCP servers, skills, plugins, hooks, headless mode, sandboxing, and more.
 
 ## Development
 
+Commands:
 ```sh
 cargo check -p <crate>        # always target specific crates; full-workspace builds are slow
 cargo test -p xai-grok-config # per-crate tests
