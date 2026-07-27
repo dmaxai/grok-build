@@ -84,7 +84,7 @@ The binary artifact is named `xai-grok-pager`; official installs ship it as
 
 ## Documentation
 
-Full online documentation is available at
+Full online documentation is available at 
 [docs.x.ai/build/overview](https://docs.x.ai/build/overview).
 
 The user guide ships with the pager crate:
