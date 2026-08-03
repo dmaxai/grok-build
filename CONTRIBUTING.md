@@ -1,6 +1,6 @@
 # Contributing
 
-This repository does **not** accept external pull requests or unsolicited
+This repository accepts external pull requests or unsolicited
 patches.
 
 SpaceXAI develops this software internally. The public tree is published for
